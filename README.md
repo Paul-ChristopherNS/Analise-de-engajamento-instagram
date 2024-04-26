@@ -1,4 +1,4 @@
-# Analisando o engajamento de uma pagina no Instagram
+# Analisando o engajamento de uma página no Instagram
 
 Temos a base de dados do Instagram des de que o usuário começou a postar na marca de até o dia 27/março.
 
