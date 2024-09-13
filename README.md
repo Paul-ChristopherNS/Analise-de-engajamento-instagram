@@ -7,5 +7,5 @@ O que queremos responder ?
 
 Recebemos também alguns direcionamentos:
 
- * Podem ignorar a coluna visualizações, queremos entender apenas curtidas, comentários e interações
- * Tags vazias é que realmente não possuem tag (favor tratar como vazio).
+ * Ignorar a coluna visualizações, queremos entender apenas curtidas, comentários e interações
+ * Tags vazias é que realmente não possuem tag (tratar como vazio).
